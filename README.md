@@ -3,6 +3,8 @@
 1. Apply transformations to flight delays data using **spark-sql**
    * Upload csv or json data files into Bigquery partition tables from bucket
    * Create dataproc cluster 
+   > hhllnb
+   
    * Add actions like **Zookeeper** , **Kafka** and **Jupyter Notebook** to the cluster
    * Use jupyter notebook to transform the data using various spark sql query
 2. Save the transformed data into Google **Bigquery** partitioned tables
